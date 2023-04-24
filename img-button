@@ -1,0 +1,3 @@
+<a href="javascript:$zopim.livechat.window.show();">
+   <img src="yourbutton.png" alt="Chat Button" />
+</a>
