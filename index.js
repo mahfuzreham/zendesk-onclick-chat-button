@@ -1,0 +1,1 @@
+All File Is Javascript
